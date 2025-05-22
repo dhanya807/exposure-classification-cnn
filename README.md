@@ -50,7 +50,7 @@ dataset/
 
 ## 🚀 Project Workflow
 
-![Project Workflow](flowchart.png)
+ ![Project Workflow](Flowchart.png)
 
 
 
