@@ -29,8 +29,14 @@ You can run this project entirely in Google Colab. Follow the steps below:
         -matplotlib
         -(pip install tensorflow numpy matplotlib)
 - Download the file exposure_classifier_model.h5 which contains the trained model
+  Download Link - https://drive.google.com/file/d/1u3KI3IXuZbWOoLLtme-HNRBSixSizvd0/view?usp=drive_link
 - Load the model from drive and using model.predict Predict the output.
 ( Demo- image_classifier_modelcheck.ipynb for a complete walkthrough of prediction.)
+
+**Building the Model from Scratch**
+
+To train the model from scratch, refer to the notebook `image.ipynb`.  
+Run each cell step-by-step, and be sure to **replace the dataset path** with the correct path to your own image folder on Google Drive.
 
 
 ## 📂 Dataset Structure
