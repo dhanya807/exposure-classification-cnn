@@ -58,7 +58,7 @@ Link to Download the Dataset - https://drive.google.com/drive/folders/1H0h-KLfbY
 
 ## 🚀 Project Workflow
 
- ![Project Workflow](Flowchart.png)
+ ![Project Workflow](flowchart.png)
 
 
 
